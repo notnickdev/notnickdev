@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm an 18 years old developer. I mainly prefer to work on the backend and infrastructure of things. I primarily work with JavaScript, TypeScript, Node, React and a little bit of Rust.
 
