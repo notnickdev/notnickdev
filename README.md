@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an 18 year old full-stack developer. Though I mainly prefer to work on the backend and infrastructure of things. I primarily work with JavaScript, TypeScript, Node, React and a little bit of Rust.
+I'm an 18 year old full-stack developer. Though I mainly prefer to work on the backend and infrastructure of things. I primarily work with JavaScript, TypeScript, Node, React and a little bit of Golang.
 
 ### Connect with me 👇
 * [Twitter](https://twitter.com/notnickdev)
