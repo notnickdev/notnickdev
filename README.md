@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Experience with React, currently learning React Native
+Full-stack developer with experience in React & Node.
 
 ### Connect with me 👇
 * [Twitter](https://twitter.com/notnickdev)
