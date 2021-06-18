@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Full-stack developer with experience in React & Node.
+I'm a Full-stack developer with experience in TypeScript and React.
+I'm currently based in the UK (United Kingdom).
 
 ### Connect with me 👇
 * [Twitter](https://twitter.com/notnickdev)
