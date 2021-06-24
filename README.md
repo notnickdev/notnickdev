@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Full-stack developer with experience in TypeScript and React.<br />
+18 year old developer with experience in TypeScript and React.<br />
 I'm currently based in the UK (United Kingdom).
 
 ### Connect with me 👇
