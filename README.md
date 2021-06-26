@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 18 year old developer with experience in TypeScript and React.<br />
-I'm currently based in the UK (United Kingdom).
+I'm currently based in the UK (United Kingdom).<br />
+**Currently learning Rust**
 
 ### Connect with me 👇
 * [Twitter](https://twitter.com/notnickdev)
