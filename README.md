@@ -2,6 +2,7 @@
 
 18 year old developer with experience in TypeScript and React.<br />
 I'm currently based in the UK (United Kingdom).<br />
+Learning Elixir! 💧
 
 ### Connect with me 👇
 * [Twitter](https://twitter.com/notnickdev)
